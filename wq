@@ -1,0 +1,29 @@
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+[1mdiff --git a/index.html b/index.html[m
+[1mindex f6ee7fb..9249d30 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,10 +1,14 @@[m
+ <!DOCTYPE html>[m
+ <html>[m
+[31m-  <head>[m
+[31m-     <title></title>>[m
+[31m-  </head>[m
+[31m-  <body>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <title>A whale of a greeting</title>[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+     <h1>hello, world</h1>[m
+[31m-    <p>Call me Ryan</p>[m
+[31m-  </body>[m
+[31m-</html>[m
+[32m+[m[32m    <a href="about.html">About this project</a>[m
+[32m+[m[32m    <p>Call me Ryan.</p>[m
+[32m+[m[32m    <a href="Pictures/Winter-Frost.jpg" alt="frost">[m
+[32m+[m[32m    <img src="C:\Users\Sean Laptop\OneDrive\Pictures\Winter-Frost.jpg">[m
+[32m+[m[32m    </a>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
